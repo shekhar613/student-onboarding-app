@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:student_onboarding/pages/HomeScreen.dart';
+// import 'package:student_onboarding/pages/HomeScreen.dart';
+import 'package:student_onboarding/pages/StartOnboardingScreen.dart';
 
 void main() {
   runApp(const MyApp());
@@ -14,7 +15,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'Student Onboarding',
-      home: Homescreen(),
+      home: Startonboardingscreen(),
     );
   }
 }
