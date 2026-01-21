@@ -2,7 +2,14 @@ import 'package:flutter/material.dart';
 
 class Onboardingscreenappbar extends StatelessWidget
     implements PreferredSizeWidget {
-  const Onboardingscreenappbar({super.key});
+  final int currentQuestion;
+  final int totalQuestion;
+
+  const Onboardingscreenappbar({
+    super.key,
+    required this.currentQuestion,
+    required this.totalQuestion,
+  });
 
   @override
   Size get preferredSize => const Size.fromHeight(90);
@@ -28,7 +35,7 @@ class Onboardingscreenappbar extends StatelessWidget
                   ),
                   const Spacer(),
                   Text(
-                    "Steps 2 of 20",
+                    "Steps $currentQuestion of $totalQuestion",
                     style: TextStyle(
                       color: Colors.grey,
                       fontWeight: FontWeight.bold,
@@ -38,7 +45,7 @@ class Onboardingscreenappbar extends StatelessWidget
               ),
               const SizedBox(height: 10),
               LinearProgressIndicator(
-                value: 0.2,
+                value: currentQuestion / totalQuestion,
                 minHeight: 8,
                 borderRadius: BorderRadius.circular(20),
                 backgroundColor: Colors.grey.shade200,

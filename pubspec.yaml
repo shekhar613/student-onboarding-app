@@ -28,4 +28,5 @@ flutter:
     - assets/Images/avtar.png
     - assets/Images/istockphoto.webp
     - assets/Images/bg.png
+    - assets/json/onboarding-questions.json
     

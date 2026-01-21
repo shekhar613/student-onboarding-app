@@ -1,0 +1,296 @@
+{
+  "quizTitle": "Computer Science Onboarding Quiz",
+  "totalQuestions": 25,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Find the next number: 2, 6, 12, 20, ?",
+      "options": [
+        { "id": "A", "text": "30", "subtitle": "Based on my understanding of this concept" },
+        { "id": "B", "text": "24", "subtitle": "Based on my understanding of this concept" },
+        { "id": "C", "text": "I am not familiar with this topic", "subtitle": "I have not studied or practiced this topic yet" },
+        { "id": "D", "text": "None of the above", "subtitle": "I am not sure or my answer is not listed" }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": 2,
+      "question": "If today is Monday, what day will it be after 14 days?",
+      "options": [
+        { "id": "A", "text": "Monday", "subtitle": "Based on my understanding of this concept" },
+        { "id": "B", "text": "Tuesday", "subtitle": "Based on my understanding of this concept" },
+        { "id": "C", "text": "I am not familiar with this topic", "subtitle": "I have not studied or practiced this topic yet" },
+        { "id": "D", "text": "None of the above", "subtitle": "I am not sure or my answer is not listed" }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": 3,
+      "question": "Which number is the odd one out? 2, 3, 5, 7, 11, 14",
+      "options": [
+        { "id": "A", "text": "14", "subtitle": "Based on my understanding of this concept" },
+        { "id": "B", "text": "11", "subtitle": "Based on my understanding of this concept" },
+        { "id": "C", "text": "I am not familiar with this topic", "subtitle": "I have not studied or practiced this topic yet" },
+        { "id": "D", "text": "None of the above", "subtitle": "I am not sure or my answer is not listed" }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": 4,
+      "question": "A person walks 5 km east and then 5 km west. How far is he from the starting point?",
+      "options": [
+        { "id": "A", "text": "0 km", "subtitle": "Based on my understanding of this concept" },
+        { "id": "B", "text": "10 km", "subtitle": "Based on my understanding of this concept" },
+        { "id": "C", "text": "I am not familiar with this topic", "subtitle": "I have not studied or practiced this topic yet" },
+        { "id": "D", "text": "None of the above", "subtitle": "I am not sure or my answer is not listed" }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": 5,
+      "question": "Complete the series: A, C, E, G, ?",
+      "options": [
+        { "id": "A", "text": "I", "subtitle": "Based on my understanding of this concept" },
+        { "id": "B", "text": "H", "subtitle": "Based on my understanding of this concept" },
+        { "id": "C", "text": "I am not familiar with this topic", "subtitle": "I have not studied or practiced this topic yet" },
+        { "id": "D", "text": "None of the above", "subtitle": "I am not sure or my answer is not listed" }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": 6,
+      "question": "Which data structure follows LIFO?",
+      "options": [
+        { "id": "A", "text": "Stack", "subtitle": "Based on my understanding of this concept" },
+        { "id": "B", "text": "Queue", "subtitle": "Based on my understanding of this concept" },
+        { "id": "C", "text": "I am not familiar with this topic", "subtitle": "I have not studied or practiced this topic yet" },
+        { "id": "D", "text": "None of the above", "subtitle": "I am not sure or my answer is not listed" }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": 7,
+      "question": "What is the output of: int x = 5; printf(\"%d\", x++);",
+      "options": [
+        { "id": "A", "text": "5", "subtitle": "Based on my understanding of this concept" },
+        { "id": "B", "text": "6", "subtitle": "Based on my understanding of this concept" },
+        { "id": "C", "text": "I am not familiar with this topic", "subtitle": "I have not studied or practiced this topic yet" },
+        { "id": "D", "text": "None of the above", "subtitle": "I am not sure or my answer is not listed" }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": 8,
+      "question": "Which loop executes at least once?",
+      "options": [
+        { "id": "A", "text": "do-while", "subtitle": "Based on my understanding of this concept" },
+        { "id": "B", "text": "while", "subtitle": "Based on my understanding of this concept" },
+        { "id": "C", "text": "I am not familiar with this topic", "subtitle": "I have not studied or practiced this topic yet" },
+        { "id": "D", "text": "None of the above", "subtitle": "I am not sure or my answer is not listed" }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": 9,
+      "question": "Time complexity of linear search?",
+      "options": [
+        { "id": "A", "text": "O(n)", "subtitle": "Based on my understanding of this concept" },
+        { "id": "B", "text": "O(log n)", "subtitle": "Based on my understanding of this concept" },
+        { "id": "C", "text": "I am not familiar with this topic", "subtitle": "I have not studied or practiced this topic yet" },
+        { "id": "D", "text": "None of the above", "subtitle": "I am not sure or my answer is not listed" }
+      ],
+      "correctOptionId": "A"
+    },
+    {
+      "id": 10,
+      "question": "Which is NOT a programming language?",
+      "options": [
+        { "id": "A", "text": "HTML", "subtitle": "Based on my understanding of this concept" },
+        { "id": "B", "text": "Python", "subtitle": "Based on my understanding of this concept" },
+        { "id": "C", "text": "I am not familiar with this topic", "subtitle": "I have not studied or practiced this topic yet" },
+        { "id": "D", "text": "None of the above", "subtitle": "I am not sure or my answer is not listed" }
+      ],
+      "correctOptionId": "A"
+    },
+
+    {
+      "id": 11,
+      "question": "Keyword used to define a function in Python?",
+      "options": [
+        { "id": "A", "text": "def", "subtitle": "Based on my understanding of this concept" },
+        { "id": "B", "text": "function", "subtitle": "Based on my understanding of this concept" },
+        { "id": "C", "text": "I am not familiar with this topic", "subtitle": "I have not studied or practiced this topic yet" },
+        { "id": "D", "text": "None of the above", "subtitle": "I am not sure or my answer is not listed" }
+      ],
+      "correctOptionId": "A"
+    },
+
+    {
+      "id": 12,
+      "question": "Which operator is used for comparison?",
+      "options": [
+        { "id": "A", "text": "==", "subtitle": "Based on my understanding of this concept" },
+        { "id": "B", "text": "=", "subtitle": "Based on my understanding of this concept" },
+        { "id": "C", "text": "I am not familiar with this topic", "subtitle": "I have not studied or practiced this topic yet" },
+        { "id": "D", "text": "None of the above", "subtitle": "I am not sure or my answer is not listed" }
+      ],
+      "correctOptionId": "A"
+    },
+
+    {
+      "id": 13,
+      "question": "Which data type stores true/false values?",
+      "options": [
+        { "id": "A", "text": "Boolean", "subtitle": "Based on my understanding of this concept" },
+        { "id": "B", "text": "Integer", "subtitle": "Based on my understanding of this concept" },
+        { "id": "C", "text": "I am not familiar with this topic", "subtitle": "I have not studied or practiced this topic yet" },
+        { "id": "D", "text": "None of the above", "subtitle": "I am not sure or my answer is not listed" }
+      ],
+      "correctOptionId": "A"
+    },
+
+    {
+      "id": 14,
+      "question": "IDE stands for?",
+      "options": [
+        { "id": "A", "text": "Integrated Development Environment", "subtitle": "Based on my understanding of this concept" },
+        { "id": "B", "text": "Internal Design Engine", "subtitle": "Based on my understanding of this concept" },
+        { "id": "C", "text": "I am not familiar with this topic", "subtitle": "I have not studied or practiced this topic yet" },
+        { "id": "D", "text": "None of the above", "subtitle": "I am not sure or my answer is not listed" }
+      ],
+      "correctOptionId": "A"
+    },
+
+    {
+      "id": 15,
+      "question": "Which one is mutable in Python?",
+      "options": [
+        { "id": "A", "text": "List", "subtitle": "Based on my understanding of this concept" },
+        { "id": "B", "text": "Tuple", "subtitle": "Based on my understanding of this concept" },
+        { "id": "C", "text": "I am not familiar with this topic", "subtitle": "I have not studied or practiced this topic yet" },
+        { "id": "D", "text": "None of the above", "subtitle": "I am not sure or my answer is not listed" }
+      ],
+      "correctOptionId": "A"
+    },
+
+    {
+      "id": 16,
+      "question": "Best data structure for undo/redo operations?",
+      "options": [
+        { "id": "A", "text": "Stack", "subtitle": "Based on my understanding of this concept" },
+        { "id": "B", "text": "Queue", "subtitle": "Based on my understanding of this concept" },
+        { "id": "C", "text": "I am not familiar with this topic", "subtitle": "I have not studied or practiced this topic yet" },
+        { "id": "D", "text": "None of the above", "subtitle": "I am not sure or my answer is not listed" }
+      ],
+      "correctOptionId": "A"
+    },
+
+    {
+      "id": 17,
+      "question": "Index of the first element in an array?",
+      "options": [
+        { "id": "A", "text": "0", "subtitle": "Based on my understanding of this concept" },
+        { "id": "B", "text": "1", "subtitle": "Based on my understanding of this concept" },
+        { "id": "C", "text": "I am not familiar with this topic", "subtitle": "I have not studied or practiced this topic yet" },
+        { "id": "D", "text": "None of the above", "subtitle": "I am not sure or my answer is not listed" }
+      ],
+      "correctOptionId": "A"
+    },
+
+    {
+      "id": 18,
+      "question": "Which is a sorting algorithm?",
+      "options": [
+        { "id": "A", "text": "Merge Sort", "subtitle": "Based on my understanding of this concept" },
+        { "id": "B", "text": "Binary Search", "subtitle": "Based on my understanding of this concept" },
+        { "id": "C", "text": "I am not familiar with this topic", "subtitle": "I have not studied or practiced this topic yet" },
+        { "id": "D", "text": "None of the above", "subtitle": "I am not sure or my answer is not listed" }
+      ],
+      "correctOptionId": "A"
+    },
+
+    {
+      "id": 19,
+      "question": "Fastest searching algorithm for sorted data?",
+      "options": [
+        { "id": "A", "text": "Binary Search", "subtitle": "Based on my understanding of this concept" },
+        { "id": "B", "text": "Linear Search", "subtitle": "Based on my understanding of this concept" },
+        { "id": "C", "text": "I am not familiar with this topic", "subtitle": "I have not studied or practiced this topic yet" },
+        { "id": "D", "text": "None of the above", "subtitle": "I am not sure or my answer is not listed" }
+      ],
+      "correctOptionId": "A"
+    },
+
+    {
+      "id": 20,
+      "question": "DSA stands for?",
+      "options": [
+        { "id": "A", "text": "Data Structures and Algorithms", "subtitle": "Based on my understanding of this concept" },
+        { "id": "B", "text": "Database System Architecture", "subtitle": "Based on my understanding of this concept" },
+        { "id": "C", "text": "I am not familiar with this topic", "subtitle": "I have not studied or practiced this topic yet" },
+        { "id": "D", "text": "None of the above", "subtitle": "I am not sure or my answer is not listed" }
+      ],
+      "correctOptionId": "A"
+    },
+
+    {
+      "id": 21,
+      "question": "Which platform is used for version control?",
+      "options": [
+        { "id": "A", "text": "GitHub", "subtitle": "Based on my understanding of this concept" },
+        { "id": "B", "text": "Figma", "subtitle": "Based on my understanding of this concept" },
+        { "id": "C", "text": "I am not familiar with this topic", "subtitle": "I have not studied or practiced this topic yet" },
+        { "id": "D", "text": "None of the above", "subtitle": "I am not sure or my answer is not listed" }
+      ],
+      "correctOptionId": "A"
+    },
+
+    {
+      "id": 22,
+      "question": "Which one is a backend technology?",
+      "options": [
+        { "id": "A", "text": "Django", "subtitle": "Based on my understanding of this concept" },
+        { "id": "B", "text": "React", "subtitle": "Based on my understanding of this concept" },
+        { "id": "C", "text": "I am not familiar with this topic", "subtitle": "I have not studied or practiced this topic yet" },
+        { "id": "D", "text": "None of the above", "subtitle": "I am not sure or my answer is not listed" }
+      ],
+      "correctOptionId": "A"
+    },
+
+    {
+      "id": 23,
+      "question": "Which is a NoSQL database?",
+      "options": [
+        { "id": "A", "text": "MongoDB", "subtitle": "Based on my understanding of this concept" },
+        { "id": "B", "text": "MySQL", "subtitle": "Based on my understanding of this concept" },
+        { "id": "C", "text": "I am not familiar with this topic", "subtitle": "I have not studied or practiced this topic yet" },
+        { "id": "D", "text": "None of the above", "subtitle": "I am not sure or my answer is not listed" }
+      ],
+      "correctOptionId": "A"
+    },
+
+    {
+      "id": 24,
+      "question": "OOP stands for?",
+      "options": [
+        { "id": "A", "text": "Object Oriented Programming", "subtitle": "Based on my understanding of this concept" },
+        { "id": "B", "text": "Only Object Programming", "subtitle": "Based on my understanding of this concept" },
+        { "id": "C", "text": "I am not familiar with this topic", "subtitle": "I have not studied or practiced this topic yet" },
+        { "id": "D", "text": "None of the above", "subtitle": "I am not sure or my answer is not listed" }
+      ],
+      "correctOptionId": "A"
+    },
+
+    {
+      "id": 25,
+      "question": "Which skill combination is most important for placements?",
+      "options": [
+        { "id": "A", "text": "Coding + DSA + Communication", "subtitle": "Based on my understanding of this concept" },
+        { "id": "B", "text": "Only marks", "subtitle": "Based on my understanding of this concept" },
+        { "id": "C", "text": "I am not familiar with this topic", "subtitle": "I have not studied or practiced this topic yet" },
+        { "id": "D", "text": "None of the above", "subtitle": "I am not sure or my answer is not listed" }
+      ],
+      "correctOptionId": "A"
+    }
+  ]
+}
